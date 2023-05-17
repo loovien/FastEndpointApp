@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "bk94DbCan/jxCNP9VQuH5BZYFNUotCxEWdOMMAeokgsAaM5zaDl0ok9T5/RdZ1wW2tv3cd72hhOk9dxHPg8AqQ==",
+  "success": true,
+  "projectFilePath": "E:\\codelab\\csharp\\startweb\\FastEndpointApp\\FastEndpointApp\\FastEndpointApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luowen\\.nuget\\packages\\fastendpoints\\5.10.0.3-beta\\fastendpoints.5.10.0.3-beta.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\fastendpoints.attributes\\5.10.0.3-beta\\fastendpoints.attributes.5.10.0.3-beta.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\luowen\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

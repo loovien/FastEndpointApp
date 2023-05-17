@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FYYQT65HFZrtGrtSuowyOIPrFYTwUk7xN8Y6gqwWdck=",
+  "Source": "FastEndpointApp",
+  "BasePath": "_content/FastEndpointApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
